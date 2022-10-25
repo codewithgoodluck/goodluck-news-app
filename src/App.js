@@ -3,7 +3,7 @@ import SearchForm from './SearchForm'
 import Stories from './Stories'
 import Buttons from './Buttons'
 function App() {
-  return <><SearchForm></SearchForm>
+  return <>
  
   
   <SearchForm></SearchForm>
